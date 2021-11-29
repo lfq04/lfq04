@@ -13,7 +13,7 @@
 
 ## About me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/luiz-felipe-quadros-6a3a281a3/)]( https://www.linkedin.com/in/luiz-felipe-quadros-6a3a281a3/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-quadros-6a3a281a3/)](https://www.linkedin.com/in/luiz-felipe-quadros-6a3a281a3/)
 
 - Thanks for visiting.
 
